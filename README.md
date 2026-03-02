@@ -12,8 +12,8 @@
 ## Установка и запуск
 1. Клонируйте репозиторий:
    ```bash
-   git clone <ссылка>
-   cd <repo>
+   git clone https://github.com/user123qqqs/workers-compensation-streamlit
+   cd workers-compensation-streamlit
 2. Создать и активировать виртуальное окружение
    python -m venv .venv
    .venv\Scripts\activate
