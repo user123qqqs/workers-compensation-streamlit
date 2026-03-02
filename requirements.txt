@@ -1,0 +1,6 @@
+streamlit==1.41.0
+pandas==2.2.2
+scikit-learn==1.4.2
+matplotlib==3.8.4
+numpy==1.26.4
+streamlit-reveal-slides==0.1.0
