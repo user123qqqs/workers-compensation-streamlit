@@ -1,4 +1,7 @@
 # Проект: Прогнозирование стоимости страховых выплат
+
+Видео-демонстрация: `https://drive.google.com/file/d/1lhtgb_hPYEHgFig05rQHf9bZdB_2ZgfT/view?usp=sharing`
+
 ## Описание проекта
 Цель проекта — разработать модель машинного обучения для предсказания
 итоговой стоимости страхового возмещения (UltimateIncurredClaimCost)
@@ -15,10 +18,10 @@
    git clone https://github.com/user123qqqs/workers-compensation-streamlit
    cd workers-compensation-streamlit
 2. Создать и активировать виртуальное окружение
-   python -m venv .venv
-   .venv\Scripts\activate
+   `python -m venv .venv`
+   `.venv\Scripts\activate`
 3) Установить зависимости
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 4) Запустить приложение
-   streamlit run app.py
+   `streamlit run app.py`
 
